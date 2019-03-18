@@ -24,3 +24,7 @@ Walking Skeleton
 ex: 
 `dotnet ef migrations add XXXX`
 `create: dotnet ef database update`
+
+### Jwt
+
+http://jwt.io
