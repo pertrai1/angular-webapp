@@ -28,3 +28,8 @@ ex:
 ### Jwt
 
 http://jwt.io
+
+### 3rd Party
+
+alertifyJS - https://alertifyjs.com/
+@auth/angular-jwt
