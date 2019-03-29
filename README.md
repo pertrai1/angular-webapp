@@ -34,3 +34,6 @@ https://next.json-generator.com/
 
 alertifyJS - https://alertifyjs.com/  
 @auth/angular-jwt
+
+AutoMapper.Extensions.Microsoft.DependencyInjection
+https://www.nuget.org/packages/automapper.extensions.microsoft.dependencyinjection/
