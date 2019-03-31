@@ -42,5 +42,4 @@ Cloudinary
 https://cloudinary.com/
 cloud name: pertrai1
 API key: 241885331271515
-API secret: xWX6fy2wP0AnGwKPF8prHOVCiUY
 Environment variable: cloudinary://241885331271515:xWX6fy2wP0AnGwKPF8prHOVCiUY@pertrai1/
