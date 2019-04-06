@@ -38,11 +38,13 @@
 
   <div class="form-group">
     <input
-      type="date"
+      type="test"
       class="form-control"
       formControlName="dateOfBirth"
       [ngClass]="{'is-invalid': registerForm.get('dateOfBirth').errors &amp;&amp; registerForm.get('knownAs').touched}"
-      placeholder="Date of Birth">
+      placeholder="Date of Birth"
+      bsDatepicker
+      [bsConfig]="bsConfig">
       <div class="invalid-feedback" *ngIf="registerForm.get('dateOfBirth').hasError('required') &amp;&amp; registerForm.get('dateOfBirth').touched">
         This field is required
       </div>
