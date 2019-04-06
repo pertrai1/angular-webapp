@@ -14,33 +14,27 @@ Walking Skeleton
 * angular2 switcher
 * auto rename tag
 
-`dotnet run` - set to either Development or Production from Properties/launchSettings.json
+`dotnet run` - set to either Development or Production from Properties/launchSettings.json  
 `dotnet watch run`
 
 > Model is an entity - a thing with distinct and independent existence
 
 ### Entity Framework
-`dotnet ef`
+`dotnet ef`  
 ex:
-`dotnet ef migrations add XXXX`
-`create: dotnet ef database update`
+`dotnet ef migrations add XXXX`  
+create: `dotnet ef database update`
 
 ### Jwt
 
-http://jwt.io
+http://jwt.io  
 https://next.json-generator.com/
 
 ### 3rd Party
 
-alertifyJS - https://alertifyjs.com/
-@auth/angular-jwt
+alertifyJS - https://alertifyjs.com/  
+@auth/angular-jwt  
 https://www.npmjs.com/package/time-ago-pipe
 
 AutoMapper.Extensions.Microsoft.DependencyInjection
 https://www.nuget.org/packages/automapper.extensions.microsoft.dependencyinjection/
-
-Cloudinary
-https://cloudinary.com/
-cloud name: pertrai1
-API key: 241885331271515
-Environment variable: cloudinary://241885331271515:xWX6fy2wP0AnGwKPF8prHOVCiUY@pertrai1/
